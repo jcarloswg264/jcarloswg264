@@ -60,8 +60,8 @@ __Generales:__
     <summary>🔎 Ver</summary>
 
 <!-- Imágenes generadas automáticamente cada día por el Action jstrieb/github-stats (incluyen repos privados) -->
-![Stats](https://raw.githubusercontent.com/jcarloswg264/github-stats/master/generated/overview.svg)
+![Stats](https://raw.githubusercontent.com/jcarloswg264/github-stats/generated/overview.svg)
 
-![Lenguajes](https://raw.githubusercontent.com/jcarloswg264/github-stats/master/generated/languages.svg)
+![Lenguajes](https://raw.githubusercontent.com/jcarloswg264/github-stats/generated/languages.svg)
 
 </details>
